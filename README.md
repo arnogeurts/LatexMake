@@ -1,4 +1,5 @@
 LatexMake
 =========
 
-Latex Make
+UNIX Make file for compiling latex documents
+
